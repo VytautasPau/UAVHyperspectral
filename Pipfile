@@ -1,0 +1,24 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "*"
+ipykernel = "*"
+rasterio = "*"
+matplotlib = "*"
+torch = "*"
+torchvision = "*"
+torchaudio = "*"
+colour-science = "*"
+scikit-image = "*"
+timm = "*"
+einops = "*"
+torchinfo = "*"
+scikit-learn = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"

@@ -1,2 +1,1 @@
-# UAVHyperspectral
-Main repository for UAV hyperspectral data unmixing algorithm
+# UAV Hyperspectral unmixing model using U-Net based arhitecture
